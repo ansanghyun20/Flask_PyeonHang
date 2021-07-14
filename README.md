@@ -1,6 +1,12 @@
 # Flask_PyeonHang
 파이썬 플라스크 프로젝트 편한여행 '편행' 웹 사이트 제작. 에어비엔비 및 네이버 자료 활용.
 
+- Flask 사용
+- 데이터베이스 사용
+- html, css 사용 (jinja2 포함)
+- matplotlib, pandas, BeautifulSoup 사용
+
+
 ## 자동 크롤링 시스템
 https://youtu.be/5ZOxRxV63HA
 
