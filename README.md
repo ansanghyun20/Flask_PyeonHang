@@ -6,7 +6,7 @@
 - html, css 사용 (jinja2 포함)
 - matplotlib, pandas, BeautifulSoup 사용
 
-
+ 
 ## 자동 크롤링 시스템
 https://youtu.be/5ZOxRxV63HA
 
